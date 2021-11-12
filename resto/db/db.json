@@ -1,0 +1,74 @@
+{
+  "restaurent": [
+    {
+      "id": 1,
+      "name": "pizz hut",
+      "address": "noida",
+      "rating": "4.5",
+      "emaol": "pizzhut@net.com"
+    },
+    {
+      "id": 2,
+      "name": "abc hut",
+      "address": "gnoida",
+      "rating": "4.5",
+      "emaol": "abchut@net.com"
+    },
+    {
+      "id": 3,
+      "name": "Dominoz",
+      "address": "Gurgram",
+      "rating": "4.5",
+      "emaol": "abchut@net.com"
+    },
+    {
+      "id": 4,
+      "name": "Rolls King",
+      "address": "Banglore",
+      "rating": "4.5",
+      "emaol": "banglo@net.com"
+    },
+    {
+      "id": 5,
+      "name": "Burger King",
+      "address": "Kanpur",
+      "rating": "0",
+      "emaol": "shubh@net.com"
+    },
+    {
+      "id": 6,
+      "name": "ww",
+      "emaol": "bb",
+      "rating": "4",
+      "address": "qwert"
+    },
+    {
+      "id": 7,
+      "name": "ww",
+      "emaol": "bb",
+      "rating": "4",
+      "address": "qwert"
+    },
+    {
+      "name": "ww",
+      "emaol": "bb",
+      "rating": "4",
+      "address": "qwert",
+      "id": 8
+    },
+    {
+      "name": "aa",
+      "emaol": "aaa",
+      "rating": "5",
+      "address": "lll",
+      "id": 9
+    },
+    {
+      "name": "Babbu Dhaba",
+      "emaol": "babbu@gmail.com",
+      "rating": "5",
+      "address": "Uttaripura, Kanpur",
+      "id": 10
+    }
+  ]
+}
